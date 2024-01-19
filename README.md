@@ -26,7 +26,7 @@ React client that consumes the API: `https://github.com/victorsteven/Forum-App-G
 
 #### Clone
 
-- Clone this project to your local machine `https://github.com/victorsteven/Forum-App-React-Frontend.git`
+- Clone this project to your local machine `https://github.com/FriendForever115/Forum-App-React-Frontend.git`
 
 #### Setup
 
@@ -41,12 +41,3 @@ React client that consumes the API: `https://github.com/victorsteven/Forum-App-G
   $ npm start
   ```
 - Visit `http://localhost:3000` 
-
-
-
-## Author
-
-- Steven Victor
-- medium: medium.com/@victorsteven  
-- twitter: twitter.com/stevensunflash  
-- linkedin: linkedin.com/in/stevenchikodi
